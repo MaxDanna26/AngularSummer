@@ -1,12 +1,22 @@
-// El factorial de un número entero n es una operación
-// matemática que consiste en multiplicar todos los factores n
-// x (n 1) x (n 2) x ... x 1. Así, el factorial de 5 (escrito como
-// 5!) es igual a: 5! = 5 x 4 x 3 x 2 x 1 = 120
-// For
-// (i=1; numfactororial ; i++)
-// factorial = factorial*i
-// }
-// Utilizando la estructura
-// for , crear un script que calcule el
-// factorial de un número entero.
+const fct = document.getElementById("Factorial");
+const msj = document.getElementById("msj");
+
+const calcularFactorial = () => {
+
+let fctNumber = parseInt(fct.value, 10);
+
+
+if(isNaN(fctNumber))
+{
+    alert("Ingrese un numero por favor!")
+}
+else
+{
+    let factorial = 1;
+    for (let i = 1; i <= fctNumber; i++) {
+        factorial *= i;
+    }
+    msj.innerHTML = "El factorial de " + fctNumber + " es " + factorial;
+}
+}
 
