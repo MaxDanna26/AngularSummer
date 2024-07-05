@@ -14,26 +14,26 @@ En este repositorio, encontrarás una estructura organizada de carpetas que repr
 
 # Módulos del Curso
 
-- HTML:
-Estructura de un documento HTML
-Elementos y etiquetas básicas
-Formularios y tablas
+  HTML:
+- Estructura de un documento HTML
+- Elementos y etiquetas básicas
+- Formularios y tablas
 
-- CSS:
-Diseño Responsive
-Selectores y propiedades CSS
-Flexbox y Grid
-Media queries y diseño adaptable
+  CSS:
+- Diseño Responsive
+- Selectores y propiedades CSS
+- Flexbox y Grid
+- Media queries y diseño adaptable
 
-- JavaScript:
-Fundamentos de JavaScript
-Manipulación del DOM
-Eventos y funciones
-Frameworks y Librerías
+  JavaScript:
+- Fundamentos de JavaScript
+- Manipulación del DOM
+- Eventos y funciones
+- Frameworks y Librerías
 
-- Introducción a Angular:
-Componentes y servicios en Angular
-Routing y navegación en aplicaciones de una sola página
+  Introducción a Angular:
+- Componentes y servicios en Angular
+- Routing y navegación en aplicaciones de una sola página
 
 ## Contribuciones
 Si eres estudiante del curso de Desarrollo Frontend de PIMEC Barcelona y has realizado ejercicios o proyectos similares, ¡te invito a contribuir a este repositorio! Siéntete libre de abrir un pull request con tus contribuciones para compartir tu trabajo y ayudar a enriquecer esta comunidad de aprendizaje.
