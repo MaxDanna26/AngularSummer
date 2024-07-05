@@ -19,19 +19,19 @@ En este repositorio, encontrarás una estructura organizada de carpetas que repr
 - Elementos y etiquetas básicas
 - Formularios y tablas
 
-  CSS:
+CSS:
 - Diseño Responsive
 - Selectores y propiedades CSS
 - Flexbox y Grid
 - Media queries y diseño adaptable
 
-  JavaScript:
+JavaScript:
 - Fundamentos de JavaScript
 - Manipulación del DOM
 - Eventos y funciones
 - Frameworks y Librerías
 
-  Introducción a Angular:
+Introducción a Angular:
 - Componentes y servicios en Angular
 - Routing y navegación en aplicaciones de una sola página
 
