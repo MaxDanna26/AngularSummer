@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+
+</head>
+<style>
+    body{
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    div{
+        margin: 1rem;
+    }
+
+    form{
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 1rem;
+    }
+
+    input,button,label{
+        padding: 0.4rem;
+        margin: 0.5rem;
+    }
+    
+    button{
+        background-color: red;
+        border-radius: 0.4rem;
+        color: white;
+    }
+
+    #msj{
+        color: white;
+        text-align: center;
+    }
+</style>
+<body>
+	<form>
+		<input type="text" id="nota">
+		<button onclick="calcularNota(); return false;">Calcular nota</button>
+	</form>
+	<p id="msj"></p>
+</body>
+<script src="/Js/Ejercicio5/js5switch.js"></script>
+</html>
