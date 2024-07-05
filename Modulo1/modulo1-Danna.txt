@@ -1,0 +1,143 @@
+1.- ¿Qué se HTML?
+Respuesta correcta:
+Un lenguaje de marcado diseñado para estructurar textos y relacionarlos en forma de hipertexto que se usa para la construcción de documentos para la web.
+
+
+
+2.- La principal función de las hojas de estilo CSS es:
+Separar la estructura de un documento de su presentación.
+
+
+
+3.- Tenemos el siguiente código:
+               <HTML>
+               <HEAD> </ HEAD>
+               <BODY>
+                              <P> Hola </ p>
+                          <! -- <P> Adiós </ p> ->
+               </ BODY>
+             </ HTML>
+
+¿Qué escribirá en pantalla?
+Hola
+
+
+
+4.- Tenemos el siguiente código:
+
+<! DOCTYPE html>
+<Html>
+<Head>
+<Style>
+body {
+    background-color: red;
+}
+</ Style>
+</ Head>
+<Body>
+
+<P> Hello world! </ P>
+
+</ Body>
+</ Html>
+
+Que representa:
+Una página web que muestra Hello world! con un fondo rojo.
+
+
+
+5. Tenemos el siguiente código:
+<FORM  NAME=“nombre” ACTION=“[URL]” METHOD=“Post | Get”>
+
+<label>First name</label>: <input type="text" name="firstname"><br>
+<label>Last name</label>: <input type="text" name="lastname">
+
+</FORM>
+
+En pantalla se visualizará:
+La opcion A, ya que el codigo proporcionado es de tipo label e input, sino serian de tipo check.
+
+
+
+6. Tenemos el siguiente código:
+...
+<DIV style="margin-bottom:10px;">Hola</DIV>
+<DIV style="margin-top:30px;">Adios</DIV>
+...
+¿Cuánto margen nos dejará entre Hola y Adiós?
+c) 30px
+Porque como uno es bottom y el otro top, se tocan, al tocarse, gana el mas grande!  
+
+
+7. ¿Qué es el inspector:
+b) Complemento de los navegadores que te permite analizar en tiempo real el código de la página web (HTML, CSS, etc..)
+
+
+8. ¿Cómo podemos esconder capas con CSS?
+b) display: none;
+
+
+9. ¿Cómo podemos crear una versión especial para imprimir de nuestra página web?
+a) <Link rel="stylesheet" href="imprimir.css" media="print">
+
+
+10. ¿Qué  es mobile first?
+b)  Estrategia que consiste en desarrollar primero para pantallas pequeñas y después adaptas a más grandes.
+
+
+11. ¿Qué es bootstrap?
+La respuesta correcta es la C, ya que es un framework que te permite crear webs responsivas tanto como para movil como para desktop, eso varia segun como lo quieras trabajar tu.
+a) Un framework para crear diseño de sitio web responsive de tipo Mobile First.
+b) Un framework para crear diseño de sitio web responsive de tipo Desktop First.
+c) Las dos anteriores.
+
+
+12. Las columnas de Bootstrap han de sumar siempre:
+a) 12
+
+
+13. El siguiente código,
+
+Captura de pantalla 2015-12-03 a las 15.21.53.png
+
+¿qué significa?
+c) La primera capa ocupa 4 columnas en todos los dispositivos.
+
+
+14. Interpreta el siguiente código CSS
+
+body >  div:last-child::before
+                              {content: "LA ";
+                              color:red;
+                              font-size:30px;}
+
+d) Selecciona el última div hijo directo de body y le pone un "LA" de color rojo delante del elemento.
+Ya que la opcion last-child selecciona el ultimo elemento DIV dentro de body.
+
+
+15.Interpreta el siguiente código CSS
+.especial:first-line { text-transform: uppercase;}
+c) Selecciona los <P> con la clase .especial y lo transforma la primera línea a mayúsculas.
+Tal como lo dice first-line solo modificara la primera linea.
+
+
+16. Indica la falsa:
+c) text-shadow es para dibujar una sombra de caja en CSS.
+Es una pregunta trampa si la lees rapido, pero text-shadow solo le genera sombra a los textos y no a las cajas.
+
+
+17. Indica que propiedad no es del fondo de una caja de CSS
+c) background-font-size
+
+
+18. Para garantizar que un documento web se van a visualizar correctamente las palabras con acentos, ñ, etc.. se usa la etiqueta:
+c) <meta>
+
+
+19. ¿Qué valor debe tener Position para que quede en la misma posición del navegador una capa, es decir, que por mucho que hagamos scroll, no desaparece:
+
+b) fixed
+
+
+20. ¿Para qué sirve el atributo name de un <input>?
+a) Es un identificador único de la capa en la página web.
