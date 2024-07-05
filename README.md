@@ -1,10 +1,10 @@
-Proyecto de Desarrollo Frontend - PIMEC Barcelona
+#Proyecto de Desarrollo Frontend - PIMEC Barcelona
 
 
 ## Descripción
 En este repositorio, compartiré los ejercicios y proyectos que he completado durante mi tiempo en el curso de Desarrollo Frontend otorgado por PIMEC Barcelona. Los ejercicios están hechos en HTML, CSS, JavaScript y Angular, y se centran en la práctica constante de estas tecnologías, trabajando con sus respectivas documentaciones y además, en la práctica de la escritura correcta del código, siguiendo las normas y estándares establecidos en la programación frontend.
 
-# Sobre PIMEC Barcelona
+## Sobre PIMEC Barcelona
 PIMEC Barcelona es una institución que apoya el desarrollo profesional y empresarial mediante la oferta de cursos de formación de alta calidad. Utilizando un enfoque de aprendizaje basado en proyectos y con modalidad online, PIMEC fomenta la autonomía, la creatividad y el trabajo en equipo entre sus estudiantes.
 
 Este curso de Desarrollo Frontend se centra en proporcionar a los estudiantes las habilidades necesarias para construir interfaces web modernas y funcionales. Durante los 4 meses del curso, de abril a agosto, los estudiantes se sumergen en el mundo del desarrollo web, trabajando con las últimas tecnologías y herramientas del frontend.
