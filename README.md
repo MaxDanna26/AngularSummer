@@ -1,4 +1,4 @@
-##Proyecto de Desarrollo Frontend - PIMEC Barcelona
+Proyecto de Desarrollo Frontend - PIMEC Barcelona
 
 
 ##Descripción
